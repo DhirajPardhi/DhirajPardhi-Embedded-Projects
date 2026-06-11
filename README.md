@@ -74,21 +74,6 @@ Add project images in the images folder:
 - LCD Output Screens
 - Fault Sensing Module
 
-## 📁 Project Structure
-
-Underground-Cable-Fault-Detection/
-│
-├── README.md
-├── code/
-│ └── Underground_Cable_Fault_Detector.ino
-├── report/
-│ └── Project_Report_Final.pdf
-└── images/
-├── hardware_model.jpg
-├── circuit_diagram.jpg
-├── lcd_output_6km.jpg
-└── lcd_output_8km.jpg
-
 ## 🚀 Future Enhancements
 
 - IoT-based fault monitoring
@@ -106,7 +91,7 @@ Electrical Engineering Graduate | Embedded Systems Enthusiast
 ### Connect With Me
 
 - GitHub: https://github.com/DhirajPardhi
-- LinkedIn: Add LinkedIn Profile Link
+- LinkedIn:https://www.linkedin.com/in/dhirajpardhi/
 
 ## ⭐ Project Highlights
 
